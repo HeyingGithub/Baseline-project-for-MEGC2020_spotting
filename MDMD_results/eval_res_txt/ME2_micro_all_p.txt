@@ -1,0 +1,396 @@
+shortest 7, p=1:
+number of videos: 98
+5035 21 57 0.3684210526315789 0.004170804369414101 0.008248232521602514
+
+shortest 7, p=2:
+number of videos: 98
+3814 18 57 0.3157894736842105 0.0047194546407970635 0.009299922500645829
+
+shortest 7, p=3:
+number of videos: 98
+2949 15 57 0.2631578947368421 0.00508646998982706 0.009980039920159682
+
+shortest 7, p=4:
+number of videos: 98
+2375 14 57 0.24561403508771928 0.005894736842105263 0.011513157894736841
+
+shortest 7, p=5:
+number of videos: 98
+1928 12 57 0.21052631578947367 0.006224066390041493 0.012090680100755667
+
+shortest 7, p=6:
+number of videos: 98
+1607 10 57 0.17543859649122806 0.006222775357809583 0.01201923076923077
+
+shortest 7, p=7:
+number of videos: 98
+1350 10 57 0.17543859649122806 0.007407407407407408 0.014214641080312722
+
+shortest 7, p=8:
+number of videos: 98
+1164 8 57 0.14035087719298245 0.006872852233676976 0.013104013104013103
+
+shortest 7, p=9:
+number of videos: 98
+976 8 57 0.14035087719298245 0.00819672131147541 0.015488867376573087
+
+shortest 7, p=10:
+number of videos: 98
+851 8 57 0.14035087719298245 0.009400705052878966 0.017621145374449337
+
+shortest 7, p=11:
+number of videos: 98
+742 6 57 0.10526315789473684 0.008086253369272238 0.015018773466833541
+
+shortest 7, p=12:
+number of videos: 98
+635 6 57 0.10526315789473684 0.009448818897637795 0.017341040462427747
+
+shortest 7, p=13:
+number of videos: 98
+575 6 57 0.10526315789473684 0.010434782608695653 0.018987341772151903
+
+shortest 7, p=14:
+number of videos: 98
+504 6 57 0.10526315789473684 0.011904761904761904 0.0213903743315508
+
+shortest 7, p=15:
+number of videos: 98
+451 5 57 0.08771929824561403 0.011086474501108648 0.01968503937007874
+
+shortest 7, p=16:
+number of videos: 98
+410 5 57 0.08771929824561403 0.012195121951219513 0.021413276231263385
+
+shortest 7, p=17:
+number of videos: 98
+366 5 57 0.08771929824561403 0.01366120218579235 0.02364066193853428
+
+shortest 7, p=18:
+number of videos: 98
+338 5 57 0.08771929824561403 0.014792899408284023 0.02531645569620253
+
+shortest 7, p=19:
+number of videos: 98
+307 5 57 0.08771929824561403 0.016286644951140065 0.027472527472527472
+
+shortest 7, p=20:
+number of videos: 98
+279 3 57 0.05263157894736842 0.010752688172043012 0.017857142857142856
+
+shortest 7, p=21:
+number of videos: 98
+249 3 57 0.05263157894736842 0.012048192771084338 0.019607843137254905
+
+shortest 7, p=22:
+number of videos: 98
+239 3 57 0.05263157894736842 0.012552301255230125 0.020270270270270268
+
+shortest 7, p=23:
+number of videos: 98
+229 3 57 0.05263157894736842 0.013100436681222707 0.020979020979020976
+
+shortest 7, p=24:
+number of videos: 98
+218 3 57 0.05263157894736842 0.013761467889908258 0.021818181818181816
+
+shortest 7, p=25:
+number of videos: 98
+201 3 57 0.05263157894736842 0.014925373134328358 0.023255813953488372
+
+shortest 7, p=26:
+number of videos: 98
+193 2 57 0.03508771929824561 0.010362694300518135 0.015999999999999997
+
+shortest 7, p=27:
+number of videos: 98
+178 2 57 0.03508771929824561 0.011235955056179775 0.01702127659574468
+
+shortest 7, p=28:
+number of videos: 98
+166 2 57 0.03508771929824561 0.012048192771084338 0.017937219730941704
+
+shortest 7, p=29:
+number of videos: 98
+152 2 57 0.03508771929824561 0.013157894736842105 0.019138755980861243
+
+shortest 7, p=30:
+number of videos: 98
+144 2 57 0.03508771929824561 0.013888888888888888 0.01990049751243781
+
+shortest 7, p=31:
+number of videos: 98
+134 2 57 0.03508771929824561 0.014925373134328358 0.02094240837696335
+
+shortest 7, p=32:
+number of videos: 98
+125 1 57 0.017543859649122806 0.008 0.010989010989010988
+
+shortest 7, p=33:
+number of videos: 98
+120 1 57 0.017543859649122806 0.008333333333333333 0.01129943502824859
+
+shortest 7, p=34:
+number of videos: 98
+114 1 57 0.017543859649122806 0.008771929824561403 0.011695906432748537
+
+shortest 7, p=35:
+number of videos: 98
+108 1 57 0.017543859649122806 0.009259259259259259 0.012121212121212121
+
+shortest 7, p=36:
+number of videos: 98
+103 1 57 0.017543859649122806 0.009708737864077669 0.012499999999999999
+
+shortest 7, p=37:
+number of videos: 98
+99 1 57 0.017543859649122806 0.010101010101010102 0.01282051282051282
+
+shortest 7, p=38:
+number of videos: 98
+95 0 57 0.0 0.0 0
+
+shortest 7, p=39:
+number of videos: 98
+86 0 57 0.0 0.0 0
+
+shortest 7, p=40:
+number of videos: 98
+77 0 57 0.0 0.0 0
+
+shortest 7, p=41:
+number of videos: 98
+73 0 57 0.0 0.0 0
+
+shortest 7, p=42:
+number of videos: 98
+70 0 57 0.0 0.0 0
+
+shortest 7, p=43:
+number of videos: 98
+68 0 57 0.0 0.0 0
+
+shortest 7, p=44:
+number of videos: 98
+62 0 57 0.0 0.0 0
+
+shortest 7, p=45:
+number of videos: 98
+57 0 57 0.0 0.0 0
+
+shortest 7, p=46:
+number of videos: 98
+55 0 57 0.0 0.0 0
+
+shortest 7, p=47:
+number of videos: 98
+55 0 57 0.0 0.0 0
+
+shortest 7, p=48:
+number of videos: 98
+52 0 57 0.0 0.0 0
+
+shortest 7, p=49:
+number of videos: 98
+50 0 57 0.0 0.0 0
+
+shortest 7, p=50:
+number of videos: 98
+47 0 57 0.0 0.0 0
+
+shortest 7, p=51:
+number of videos: 98
+41 0 57 0.0 0.0 0
+
+shortest 7, p=52:
+number of videos: 98
+39 0 57 0.0 0.0 0
+
+shortest 7, p=53:
+number of videos: 98
+39 0 57 0.0 0.0 0
+
+shortest 7, p=54:
+number of videos: 98
+33 0 57 0.0 0.0 0
+
+shortest 7, p=55:
+number of videos: 98
+31 0 57 0.0 0.0 0
+
+shortest 7, p=56:
+number of videos: 98
+31 0 57 0.0 0.0 0
+
+shortest 7, p=57:
+number of videos: 98
+28 0 57 0.0 0.0 0
+
+shortest 7, p=58:
+number of videos: 98
+24 0 57 0.0 0.0 0
+
+shortest 7, p=59:
+number of videos: 98
+22 0 57 0.0 0.0 0
+
+shortest 7, p=60:
+number of videos: 98
+20 0 57 0.0 0.0 0
+
+shortest 7, p=61:
+number of videos: 98
+19 0 57 0.0 0.0 0
+
+shortest 7, p=62:
+number of videos: 98
+18 0 57 0.0 0.0 0
+
+shortest 7, p=63:
+number of videos: 98
+17 0 57 0.0 0.0 0
+
+shortest 7, p=64:
+number of videos: 98
+16 0 57 0.0 0.0 0
+
+shortest 7, p=65:
+number of videos: 98
+15 0 57 0.0 0.0 0
+
+shortest 7, p=66:
+number of videos: 98
+15 0 57 0.0 0.0 0
+
+shortest 7, p=67:
+number of videos: 98
+13 0 57 0.0 0.0 0
+
+shortest 7, p=68:
+number of videos: 98
+12 0 57 0.0 0.0 0
+
+shortest 7, p=69:
+number of videos: 98
+11 0 57 0.0 0.0 0
+
+shortest 7, p=70:
+number of videos: 98
+9 0 57 0.0 0.0 0
+
+shortest 7, p=71:
+number of videos: 98
+9 0 57 0.0 0.0 0
+
+shortest 7, p=72:
+number of videos: 98
+7 0 57 0.0 0.0 0
+
+shortest 7, p=73:
+number of videos: 98
+6 0 57 0.0 0.0 0
+
+shortest 7, p=74:
+number of videos: 98
+5 0 57 0.0 0.0 0
+
+shortest 7, p=75:
+number of videos: 98
+5 0 57 0.0 0.0 0
+
+shortest 7, p=76:
+number of videos: 98
+3 0 57 0.0 0.0 0
+
+shortest 7, p=77:
+number of videos: 98
+3 0 57 0.0 0.0 0
+
+shortest 7, p=78:
+number of videos: 98
+3 0 57 0.0 0.0 0
+
+shortest 7, p=79:
+number of videos: 98
+3 0 57 0.0 0.0 0
+
+shortest 7, p=80:
+number of videos: 98
+3 0 57 0.0 0.0 0
+
+shortest 7, p=81:
+number of videos: 98
+2 0 57 0.0 0.0 0
+
+shortest 7, p=82:
+number of videos: 98
+2 0 57 0.0 0.0 0
+
+shortest 7, p=83:
+number of videos: 98
+2 0 57 0.0 0.0 0
+
+shortest 7, p=84:
+number of videos: 98
+1 0 57 0.0 0.0 0
+
+shortest 7, p=85:
+number of videos: 98
+1 0 57 0.0 0.0 0
+
+shortest 7, p=86:
+number of videos: 98
+1 0 57 0.0 0.0 0
+
+shortest 7, p=87:
+number of videos: 98
+0 0 57 0.0 0 0
+
+shortest 7, p=88:
+number of videos: 98
+0 0 57 0.0 0 0
+
+shortest 7, p=89:
+number of videos: 98
+0 0 57 0.0 0 0
+
+shortest 7, p=90:
+number of videos: 98
+0 0 57 0.0 0 0
+
+shortest 7, p=91:
+number of videos: 98
+0 0 57 0.0 0 0
+
+shortest 7, p=92:
+number of videos: 98
+0 0 57 0.0 0 0
+
+shortest 7, p=93:
+number of videos: 98
+0 0 57 0.0 0 0
+
+shortest 7, p=94:
+number of videos: 98
+0 0 57 0.0 0 0
+
+shortest 7, p=95:
+number of videos: 98
+0 0 57 0.0 0 0
+
+shortest 7, p=96:
+number of videos: 98
+0 0 57 0.0 0 0
+
+shortest 7, p=97:
+number of videos: 98
+0 0 57 0.0 0 0
+
+shortest 7, p=98:
+number of videos: 98
+0 0 57 0.0 0 0
+
+shortest 7, p=99:
+number of videos: 98
+0 0 57 0.0 0 0
+

@@ -1,0 +1,20 @@
+ME2 (number of videos: 98)----------------------------------------------------------------------------------
+
+micro-expression:   predict: 5035    true_predict: 21       labels: 57       recall: 0.3684210526315789       precision: 0.004170804369414101       F1-Score: 0.008248232521602514
+
+macro-expression:  predict: 1523    true_predict: 109     labels: 300     recall: 0.36333333333333334     precision: 0.07156927117531188         F1-Score: 0.11958310477235326
+
+total:                       predict: 6558     true_predict: 130    labels: 357     recall: 0.3641456582633053       precision: 0.01982311680390363         F1-Score: 0.03759942154736081
+
+
+
+SAMM_MEGC (number of videos: 147)---------------------------------------------------------------------------
+
+micro-expression:   predict: 1436    true_predict: 29      labels: 159      recall: 0.18238993710691823     precision: 0.0201949860724234           F1-Score: 0.03636363636363636
+
+macro-expression:  predict: 356      true_predict: 22      labels: 343      recall: 0.0641399416909621       precision: 0.06179775280898876         F1-Score: 0.06294706723891273
+
+total:                       predict: 1792     true_predict: 51     labels: 502      recall: 0.10159362549800798     precision: 0.028459821428571428       F1-Score: 0.04446381865736704
+
+
+

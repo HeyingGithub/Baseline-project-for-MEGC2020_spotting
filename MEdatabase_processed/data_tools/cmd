@@ -1,0 +1,30 @@
+cd /home/melab/heying_backup/MEspotting_flow/data_tools
+
+python crop_faces.py
+
+python win_flow_img.py --win_size=2
+
+python cmp_me2.py
+
+python count_frames.py
+
+python display.py [args]
+{-------------------------------------------------------------------------------------------------
+optional arguments:
+  --what_display         choices: crop_face, flow  (the default is "crop_face")
+  --flow_from            choices: none, saver, img  (the default is "none")
+  --win_size             how many images for a flow (the default value is 2)
+  --only_expressions     choose whether to only display facial expressions (the default is False)
+}-------------------------------------------------------------------------------------------------
+
+(a) display faces:
+python display.py
+python display.py --only_expressions=True
+
+(b) display flows:
+( Compute currently. It is very slow especially when "win_size" is big. )
+python display.py --what_display=flow --win_size=5
+
+( Read saved flow images. Current "win_size" options are: 2, 5, 7, 10, 15 ) ( Recommend )
+python display.py --what_display=flow --flow_from=img --win_size=5
+python display.py --what_display=flow --flow_from=img --only_expressions=True --win_size=5
