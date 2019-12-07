@@ -18,11 +18,6 @@ if ~exist(save_path, 'dir')
     mkdir(save_path);
 end
 
-diary_file = [dataset, '_' cls, '_log.txt'];
-delete(diary_file);
-diary(diary_file);
-diary on;
-
 blocks=[6];
 auto_k = true; % When the video is too short, halve the k until it is valid.
 if strcmp(dataset, 'ME2') && strcmp(cls, 'micro')
@@ -93,8 +88,4 @@ for i=1:num_videos
     save(save_mat_name, 'predicts');
     
     toc
-    diary off;
-    diary on;
 end
-
-diary off;
