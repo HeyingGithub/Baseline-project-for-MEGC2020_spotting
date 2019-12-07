@@ -2,8 +2,8 @@ clear
 clc
 
 %dataset = 'ME2';
-%dataset = 'SAMM_MEGC';
-dataset = 'SAMM';
+dataset = 'SAMM_MEGC';
+%dataset = 'SAMM';
 
 cls = 'micro';
 %cls = 'macro';
