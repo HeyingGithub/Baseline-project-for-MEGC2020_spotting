@@ -63,8 +63,3 @@ MDMDmat_to_txt.m % generate predicted intervals (without removing too short or t
 python evaluation_all_p.py # generate evaluation results of all "p" parameters (remove too short or too long intervals)
 python gen_MEGC2020_log_file.py # generate the FG-MEGC2020 log file
 ```
-
-
-## Contribution
-
-The project codes are contributed by Ying He and Su-Jing Wang. 
