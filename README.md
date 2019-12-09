@@ -67,4 +67,4 @@ python gen_MEGC2020_log_file.py # generate the FG-MEGC2020 log file
 
 ## Contribution
 
-The project is contributed by Ying He and Su-Jing Wang. 
+The project codes are contributed by Ying He and Su-Jing Wang. 
