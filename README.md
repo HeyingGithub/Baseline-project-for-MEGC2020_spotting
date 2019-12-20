@@ -2,7 +2,7 @@
 
 The project is the baseline method implementation for the Third Micro-Expression Grand Challenge (MEGC2020): New Learning Methods for Spotting and Recognition - spotting part (workshop og FG2020 ). 
 
-Baseline paper on arXiv will be availble soon and we will share the link on this page. Please cite the paper when it is online. 
+Baseline paper on arXiv will be available soon and we will share the link on this page. Please cite the paper when it is online. 
 
 
 ## Method
