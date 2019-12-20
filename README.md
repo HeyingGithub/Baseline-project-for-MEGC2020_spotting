@@ -15,7 +15,13 @@ There are some additional instructions for slight modification here:
 
 (2) For parameter settings: for the CAS(ME)^2 dataset, the "k" is set to 12 for micro-expressions, and 39 for macro-expressions; for the SAMM Long Videos dataset, the "k" is set to 80 for micro-expressions, and 260 for macro-expressions; the number of blocks is set to 6 x 6, and the number of directions is set to 4, and the "p" is set to 1. 
 
-(3) The original MDMD only predicts whether a frame blongs to facial movements. To output target intervals,  the adjacent frames consistently predicted to be macro- or micro-expressions form an interval, and the intervals that are too long or too short are removed. (The number of micro-expression frames is limited between 7 and 16 for the CAS(ME)^2 dataset, and between 47 and 105 for the SAMM Long Videos dataset. The number of macro-expression frames is limited larger than 16 for the CAS(ME)^2 dataset, and larger than 105 for the SAMM Long Videos dataset.)
+(3) The original MDMD only predicts whether a frame blongs to facial movements. To output target intervals,  the adjacent frames consistently predicted to be macro- or micro-expressions form an interval, and the intervals that are too long or too short are removed. (The number of micro-expression frames is limited between 7 and 16 for the CAS(ME)^2 dataset, and between 47 and 105 for the SAMM Long Videos dataset. The number of macro-expression frames is defined as larger than 16 for the CAS(ME)^2 dataset, and larger than 105 for the SAMM Long Videos dataset.)
+
+
+## Results
+Since the amount of TP is an important metric for the spotting result evaluation, we select the results under the condition of p=0.01 as the final baseline results. For CAS(ME)^2, the F1-scores are 0.1196 and 0.0082 for macro- and micro-expressions respectively, and 0.0376 for overall result. For SAMM Long Videos, the F1-scores are 0.0629 and 0.0364 for macro- and micro-expressions respectively, and 0.0445 for overall result. More details about the number of true labels, TP, FP, FN, precision, recall and F1-score for various situations are shown in the following table.
+
+
 
 
 ## How to reproduce the baseline results
