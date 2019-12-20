@@ -1,6 +1,6 @@
 # Baseline project for MEGC2020_spotting
 
-The project is the baseline method implementation for the Third Micro-Expression Grand Challenge (MEGC2020): New Learning Methods for Spotting and Recognition - spotting macro and micro expressions on long videos (workshop of FG2020 ). Link: <a href="http://megc2020.psych.ac.cn:81/">http://megc2020.psych.ac.cn:81/</a>.
+The project is the baseline method implementation for the Third Micro-Expression Grand Challenge (MEGC2020): New Learning Methods for Spotting and Recognition - spotting macro and micro expressions on long videos (workshop of FG2020 ). Link: <a href="http://megc2020.psych.ac.cn:81/">http://megc2020.psych.ac.cn:81/</a>
 
 Baseline paper on arXiv will be available soon and we will share the link on this page. Please cite the paper when it is online.
 
