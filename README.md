@@ -21,7 +21,16 @@ There are some additional instructions for slight modification here:
 ## Results
 Since the amount of TP is an important metric for the spotting result evaluation, we select the results under the condition of p=0.01 as the final baseline results. For CAS(ME)^2, the F1-scores are 0.1196 and 0.0082 for macro- and micro-expressions respectively, and 0.0376 for overall result. For SAMM Long Videos, the F1-scores are 0.0629 and 0.0364 for macro- and micro-expressions respectively, and 0.0445 for overall result. More details about the number of true labels, TP, FP, FN, precision, recall and F1-score for various situations are shown in the following table.
 
-
+| Dataset      | \\multicolumn\{3\}\{\|c\|\}\{\\textbf\{CAS\(ME\)\\\(^2\\\)\}\} | \\multicolumn\{3\}\{\|c\|\}\{\\textbf\{SAMM Long Videos\}\} |
+|--------------|----------------------------------------------------------------|-------------------------------------------------------------|
+| Expression   | macro\-expression                                              | micro\-expression                                           | overall | macro\-expression | micro\-expression | overall |
+| Total number | 300                                                            | 57                                                          | 357     | 343               | 159               | 502     |
+| TP           | 109                                                            | 21                                                          | 130     | 22                | 29                | 51      |
+| FP           | 1414                                                           | 5014                                                        | 6428    | 334               | 1407              | 1741    |
+| FN           | 191                                                            | 36                                                          | 335     | 314               | 130               | 451     |
+| Precision    | 0\.0716                                                        | 0\.0042                                                     | 0\.0198 | 0\.0618           | 0\.0202           | 0\.0285 |
+| Recall       | 0\.3633                                                        | 0\.3684                                                     | 0\.3641 | 0\.0641           | 0\.1824           | 0\.1016 |
+| F1\-score    | 0\.1196                                                        | 0\.0082                                                     | 0\.0376 | 0\.0629           | 0\.0364           | 0\.0445 |
 
 
 ## How to reproduce the baseline results
