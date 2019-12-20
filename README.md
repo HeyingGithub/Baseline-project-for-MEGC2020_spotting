@@ -21,7 +21,7 @@ There are some additional instructions for slight modification here:
 ## Results
 Since the amount of TP is an important metric for the spotting result evaluation, we select the results under the condition of p=0.01 as the final baseline results. For CAS(ME)^2, the F1-scores are 0.1196 and 0.0082 for macro- and micro-expressions respectively, and 0.0376 for overall result. For SAMM Long Videos, the F1-scores are 0.0629 and 0.0364 for macro- and micro-expressions respectively, and 0.0445 for overall result. More details about the number of true labels, TP, FP, FN, precision, recall and F1-score for various situations are shown in the following table.
 
-| Dataset      | \\multicolumn\{3\}\{\|c\|\}\{\\textbf\{CAS\(ME\)\\\(^2\\\)\}\} | \\multicolumn\{3\}\{\|c\|\}\{\\textbf\{SAMM Long Videos\}\} |
+| Dataset      | CAS(ME)^2 | CAS(ME)^2 | SAMM Long Videos | SAMM Long Videos |
 |--------------|----------------------------------------------------------------|-------------------------------------------------------------|
 | Expression   | macro\-expression                                              | micro\-expression                                           | overall | macro\-expression | micro\-expression | overall |
 | Total number | 300                                                            | 57                                                          | 357     | 343               | 159               | 502     |
