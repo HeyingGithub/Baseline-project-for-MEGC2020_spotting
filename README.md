@@ -2,9 +2,9 @@
 
 The project is the baseline method implementation for the Third Micro-Expression Grand Challenge (MEGC2020): New Learning Methods for Spotting and Recognition - spotting macro and micro expressions on long videos (workshop of FG2020 ). Link: <a href="http://megc2020.psych.ac.cn:81/">http://megc2020.psych.ac.cn:81/</a>
 
-# Baseline paper
+# Paper
 
-Baseline paper on ChinaXiv is available at: <a href="http://www.chinaxiv.org/abs/201912.00026" >http://www.chinaxiv.org/abs/201912.00026</a>. Please cite the baseline paper in your publications if you refer to this project:
+Baseline paper on ChinaXiv is available at: <a href="http://www.chinaxiv.org/abs/201912.00026" >http://www.chinaxiv.org/abs/201912.00026</a>. Please cite:
 
 Ying He,Su-Jing Wang,Jingting Li,Moi Hoon Yap.(2019).Spotting Macro- and Micro-expression Intervals in Long Video Sequences.[ChinaXiv:201912.00026] 
 
