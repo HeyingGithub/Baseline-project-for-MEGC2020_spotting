@@ -11,7 +11,9 @@ Ying He,Su-Jing Wang,Jingting Li,Moi Hoon Yap.(2019).Spotting Macro- and Micro-e
 
 ## Method
 
-For details, please refer to the above baseline paper. For your convenience, we briefly summarize the baseline method here. The original MDMD (Main Directional Maximal Difference Analysis)  method proposed in [1] is slightly modified for MEGC 2020 as follows.
+For details, please refer to the above baseline paper. For your convenience, we briefly summarize the baseline method here. 
+
+The original MDMD (Main Directional Maximal Difference Analysis)  method proposed in [1] is slightly modified for MEGC 2020 as follows.
 
 (1) For preprocess, face regions are cropped according to the landmarks detected by the "Dlib" toolkit. More details can be gotten by reading the codes in the file "preprocess.py" in the folder "MEdatabase_processed".  
 
