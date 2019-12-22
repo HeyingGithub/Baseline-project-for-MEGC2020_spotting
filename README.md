@@ -11,9 +11,7 @@ Ying He,Su-Jing Wang,Jingting Li,Moi Hoon Yap.(2019).Spotting Macro- and Micro-e
 
 ## Method
 
-The method is Main Directional Maximal Difference Analysis (MDMD). For details, please refer to the above baseline paper. 
-
-For your convenience, we briefly summarize the baseline method here: 
+The method is Main Directional Maximal Difference Analysis (MDMD). For details, please refer to the above baseline paper. For your convenience, we briefly summarize the baseline method here: 
 
 The original MDMD method proposed in [1] is slightly modified for MEGC 2020 as follows: 
 
