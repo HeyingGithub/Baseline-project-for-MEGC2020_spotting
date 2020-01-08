@@ -4,9 +4,9 @@ The project is the baseline method implementation for the Third Micro-Expression
 
 ## Paper
 
-Baseline paper on ChinaXiv is available at <a href="http://www.chinaxiv.org/abs/201912.00026" >http://www.chinaxiv.org/abs/201912.00026</a>. Please cite:
+Baseline paper on ChinaXiv is available at <a href="https://arxiv.org/abs/1912.11985" >https://arxiv.org/abs/1912.11985</a>. Please cite:
 
-Ying He, Su-Jing Wang, Jingting Li, Moi Hoon Yap. (2019). Spotting Macro- and Micro-expression Intervals in Long Video Sequences. [ChinaXiv:201912.00026] 
+He Y, Wang S J, Li J, et al. Spotting Macro-and Micro-expression Intervals in Long Video Sequences[J]. arXiv preprint arXiv:1912.11985, 2019.
 
 
 ## Method
