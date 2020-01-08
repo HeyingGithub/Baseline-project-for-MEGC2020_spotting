@@ -4,7 +4,7 @@ The project is the baseline method implementation for the Third Micro-Expression
 
 ## Paper
 
-Baseline paper on ArXiv is available at <a href="https://arxiv.org/abs/1912.11985" >https://arxiv.org/abs/1912.11985</a>. Please cite:
+Baseline paper on arXiv is available at <a href="https://arxiv.org/abs/1912.11985" >https://arxiv.org/abs/1912.11985</a>. Please cite:
 
 He Y, Wang S J, Li J, et al. Spotting Macro-and Micro-expression Intervals in Long Video Sequences[J]. arXiv preprint arXiv:1912.11985, 2019.
 
