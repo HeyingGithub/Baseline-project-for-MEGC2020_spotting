@@ -41,7 +41,7 @@ Since the amount of TP is an important metric for the spotting result evaluation
 
 ## How to reproduce the baseline results
 
-The codes need to run in the environments: Python 3.5 and Matlab. (Note that the Python version should match.)
+The codes need to run in the environments: Python 3.5 and Matlab. ( Note that the Python version should match. )
 
 Firstly, put the datasets or their soft links into the two "dataset_new" folders respectively in "MDMD_results" and "MEdatabase_processed". Structure the two "dataset_new" folders as follows: 
 
