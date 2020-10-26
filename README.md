@@ -4,9 +4,21 @@ The project is the baseline method implementation for the Third Micro-Expression
 
 ## Paper
 
-Baseline paper on arXiv is available at <a href="https://arxiv.org/abs/1912.11985" >https://arxiv.org/abs/1912.11985</a>. Please cite:
+If you find our work useful in your research, please consider citing:
 
-He Y, Wang S J, Li J, et al. Spotting Macro-and Micro-expression Intervals in Long Video Sequences[J]. arXiv preprint arXiv:1912.11985, 2019.
+```
+@inproceedings{He2020MEspotting,
+   author = {He, Ying and Wang, Su-Jing and Li, Jingting and Yap, Moi Hoon},
+   title = {Spotting Macro-and Micro-Expression Intervals in Long Video Sequences},
+   booktitle = {2020 15th IEEE International Conference on Automatic Face and Gesture Recognition (FG 2020) (FG)},
+   address = {Los Alamitos, CA, USA},
+   publisher = {IEEE Computer Society},
+   pages = {238-244},
+   DOI = {10.1109/FG47880.2020.00036},
+   url = {https://doi.ieeecomputersociety.org/10.1109/FG47880.2020.00036},
+   type = {Conference Proceedings}
+}
+```
 
 
 ## Method
